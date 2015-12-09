@@ -1,0 +1,27 @@
+{
+  "name": "fake-style-loader",
+  "version": "1.0.0",
+  "description": "Like style-loader in modules mode, but can be used on server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dferber90/fake-style-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "style-loader"
+  ],
+  "author": "Dominik Ferber <dominik.ferber+npm@gmail.com> (http://dferber.de/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dferber90/fake-style-loader/issues"
+  },
+  "homepage": "https://github.com/dferber90/fake-style-loader#readme",
+  "dependencies": {
+    "loader-utils": "0.2.12"
+  }
+}
