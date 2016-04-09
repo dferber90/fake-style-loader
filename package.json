@@ -1,6 +1,6 @@
 {
   "name": "fake-style-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like style-loader in modules mode, but can be used on server",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dferber90/fake-style-loader#readme",
   "dependencies": {
-    "loader-utils": "0.2.12"
+    "loader-utils": "0.2.13"
   }
 }
